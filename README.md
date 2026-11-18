@@ -22,8 +22,8 @@ Os projetos acima são **laboratórios de estudo com dados fictícios**, não im
 
 ## Projetos em desenvolvimento
 
-- **Plataforma de recuperação tributária:** estruturação de fluxos documentais, requisitos e protótipo web com apoio de IA. Código mantido em repositório privado; ainda não é uma solução comercial validada.
-- **GABI:** protótipo local de assistente web em Python/Flask, com experimentação de API e histórico de mensagens. Sem repositório público apresentado neste portfólio.
+- [**Lastrevia**](https://github.com/IgorGomes-ItSolutions/lastrevia) — piloto local de triagem tributária com catálogo documental, processamento de XML fiscal e testes com dados fictícios. Projeto em desenvolvimento com apoio de IA.
+- [**CHAT GABI**](https://github.com/IgorGomes-ItSolutions/chat-gabi) — assistente web em Python e Flask com integração à API da OpenAI e histórico de conversas por conta. Código público, aplicação em beta privado.
 
 ## Conhecimentos em desenvolvimento
 
